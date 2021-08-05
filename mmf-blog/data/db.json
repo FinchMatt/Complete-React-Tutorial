@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "About Me",
+      "body": "I am a nearly-thirty hiking enthusiast who recently moved to Seattle with his partner and their two very well-behaved dogs, Isaac and Sophie (or as we refer to them: Sleek & Floof).",
+      "author": "matt",
+      "id": 1
+    },
+    {
+      "title": "Career/Work Experience",
+      "body": "I graduated Summa Cum Laude from Northern Arizona University with a bachelor of science in mechanical engineering and minor in mathematics.  Straight out of school, I got a job working for Honeywell Aerospace as a machinist, running setups and production on small gears and shafts.  After a year as a machinist, I leveraged that experience to get hired on as a repair process engineer in charge of rotating components (impellers, disks, blisks, etc.) at Honeywell R&O (Repair & Overhaul).  Shortly thereafter, I took over the additional responsibilities of the tooling engineer for the site, where I worked to develop and document standard work procedures around the justification, design, and procurement processes around tooling; even after developing the standard work procedures and handing off these responsibilities, it became clear that I would never fully offload the burden of tooling engineer while working at the R&O site.  I grew indifferent to this inescapable responsibility, which ultimately led me to joining the Honeywell/ITEC F124-AJT (Advanced Jet Trainer) project engineering team.  This job came with the opportunity to start an engine program early on and see it all from beginning of development through the end of qualification, the promise of significant international travel, a breadth of new challenges, but more importantly, gave me the opportunity to completely escape those tooling engineer responsbilities.  As a project engineer working on the AJT, I spent most of my time estimating, planning, and managing the schedule around the engine's external components (bypass duct, oil tank, gearbox, exhaust, etc.).  This work was not thrilling to me, however, troubleshooting the occasional design challenge and frequent travel to interface with the customer and vendors kept the job stimulating.  Fast forward to early 2020, the AJT is rapidly approaching qualification, but in our new Covid-19 world, the job is vastly different; the travel and relationship building that kept the job interesting is no more, and only the dull, day-to-day administrative program management duties remain.  As AJT duties wind down, I joined the T55-Chinook, where I was thrust into the externals module lead after the previous engineer had quit on short notice.  This job was a magnitude change in responsibilities and the daily time demanded and did not come with a promotion; I went from a consistent 8-9 hour/day schedule to a consistent 11-12 hour/day schedule.  After a few months of this, the writing was on the walls - I had to quit.  In Summer 2021, I quit my job at Honeywell Aerospace, sold my home in Tempe, moved to Seattle with my fiancée.  I am currently spending most of my time enjoying the splendor that the Pacific Northwest has to offer and learning to code as I embark on this next exciting chapter of life.",
+      "author": "matt",
+      "id": 2
+    }
+  ]
+}
